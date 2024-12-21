@@ -9,8 +9,9 @@ Contact:
 Robin C. Jacobs (<jacobsr@ethz.ch>)
 Alexandre Didier (<adidier@ethz.ch>)
 
-## News
-- 27.04.2023 Code released
+## Data files
+Please download the data points used for training under https://doi.org/10.3929/ethz-b-000610171
+
 
 ## Overview
 
