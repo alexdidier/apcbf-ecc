@@ -1,0 +1,12 @@
+casadi
+cvxpy
+ipython
+ipykernel
+ipywidgets==7.7.1
+matplotlib
+Mosek
+numpy
+pytope==0.0.4
+scipy
+torch
+
